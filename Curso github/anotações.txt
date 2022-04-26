@@ -1,0 +1,4 @@
+Para mandar o controle de versão local: git add. 	
+Git commit -m(mensagem) " mensagem " - para add ao servidor
+= ele vai disponibilizar pronto para enviar ao servidor
+git push origin main = ele envia ao servidor 
