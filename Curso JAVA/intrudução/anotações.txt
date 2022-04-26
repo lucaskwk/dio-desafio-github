@@ -1,0 +1,78 @@
+# TCP/IP 
+Protocolo de comunicação entre redes 
+# TCP protocolo de controle de transmissão
+# IP - protocolo de internet
+# Modelo de camadas 4
+1 física (placa de rede)
+2 Rede (IP)
+3 Transporte (TCP, UDP)
+4 Aplicação (FTP, SMTP, HTTP)
+
+# UDP 
+Rapido, nao confiavel, carro do ovo, livestream.
+(pode se perder no meio do caminnho, naõ sabe quem recebe e se todo mundo recebe)
+# TCP 
+Voltado à conexão, handshake, integridade e ordem dos dados, aplicativos de mensagens de texto
+(sabe quem recebe, organizado)
+
+# Portas
+onde os dados sairão e chegarão
+
+
+# Modem
+Hardware que converte dados em formato que possa ser transmitido entre computadores.
+
+# Roteador 
+Distribui internet para um ou mais dispositivos 
+
+# Switch distribui para um ou mais dispositivos. 
+
+# Celulares e outro dispositivos 
+
+# SMS 
+# MMS 
+
+# Browser
+Sabe identicar varias LP, marcação e conteúdos mutimedia
+HTML = linguagem de marcação. 
+Cache: grava no eu computador informações do site para guardar infos.
+Cookies: rastro que o computador deixa, anuncios fotos.
+
+# Pagina estática x dinâmica
+Interações. 
+
+# Site 
+Pagina da internet
+Podem ser feitas em diversas LP.
+
+# Aplicativo
+
+Software que é executado no navegador
+
+# E-commerce
+Eletronic, site de venda com sistema de pagamento, podendo ser exterior ao site.
+
+# Web Server
+Estático: Servidor físico
+Dinamico: Presente nos servidores físicos.
+
+# Stacks
+#Front-end
+Parte da frente, parte visual, parte de programação.
+Site, software, aplicativo, webservice.
+Interface, user interface UI, user exprirence UX.
+Lógica de programação: HTML, CSS, Jquery/JS/ajax, php, bootstrap.
+
+#Back-end
+Servidores, banco de dados
+Meio de campo entre interface e banco de dados, regras de negócios, validações.
+MySQL, oracle, protocolos de comunicação, java, php, node.js
+
+#FullStack
+Trabalha em todas as camadas para desenvolvimento de execução de um app/sw
+
+# Principais LPS
+HTML, CSS, JAVA(Jquery, ajax), php, .net, asap, java, ruby, phyton, perl, c/c++/c#
+
+# Termos comuns
+Debug - ver qual o problema, verificação.
